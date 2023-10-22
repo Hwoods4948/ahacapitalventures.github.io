@@ -1,0 +1,21 @@
+
+a{
+    color: white;
+    
+}
+
+li{
+    display: block;
+    margin-top: 15px;
+}
+
+li :hover{
+    color: rgb(47, 255, 172);
+}
+
+
+
+
+
+
+
